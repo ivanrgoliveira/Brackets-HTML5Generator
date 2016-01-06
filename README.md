@@ -1,4 +1,4 @@
-# brackets-html5_generator
+# Brackets-HTML5Generator
 Extension for Brackets to create a new HTML5 document.
 
 A new menu item will appear on File, named New HTML5 File.
