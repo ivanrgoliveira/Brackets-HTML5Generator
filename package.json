@@ -1,0 +1,16 @@
+{
+  "name": "ivanrgoliveira.html5generator",
+  "title": "Ivan Oliveira - HTML5 Generator",
+  "description": "HTML5 generator for new documents.",
+  "homepage": "https://github.com/ivanrgoliveira/brackets-html5_generator",
+  "version": "0.1",
+  "author": "Ivan Oliveira (https://github.com/ivanrgoliveira/)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.5.0"
+  },
+  "keywords": [
+    "html5",
+    "generator"
+  ]
+}
